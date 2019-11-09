@@ -1,10 +1,10 @@
 # booking-form
 
-###Introduction
+### Introduction
 
 This is a script Guillaume created to book the fablab resources and update a resource calendar, send notifications etc... all based on Google tools. Some bits of scripts have been copied here and there so if you know of the owner, please let us know so we can attribute them correctly.
 
-###How does it work ?
+### How does it work ?
 
 - A form (scripts at the root of the repo) is created.
 - Users fill it in to book a room, machine or event.
@@ -13,7 +13,7 @@ This is a script Guillaume created to book the fablab resources and update a res
 - If it's an event, the conciergerie needs to approve it so they receive an email to update the google sheet
 - Macros run on the google sheet to check for items, and if they are approved and not published, it publishes them on the corresponding calendars (scripts in the event manager folder)
 
-###How do I install it ?
+### How do I install it ?
 
 You'll need to create a google webapp and copy the scripts in the right files.
 Copy this google sheet that will capture all the events created by the form : https://docs.google.com/spreadsheets/d/1sbn8Jqxz-Fk-rxmNp1zpur3_IVpnJyeJXy2R_dpzL-c/edit?usp=sharing
@@ -23,7 +23,7 @@ Copy the macros,etc... from the repo subfolders to the google sheet
 Publish the whole thing
 And it should work :-)
 
-###Disclaimer
+### Disclaimer
 
 Guillaume and I (yannick) are not developpers so the code might be a bit messy.
 A lot can be improved, I'd almost say it's not in a ready to share state yet but since we're all limited on time, we might as well start for here :-)
