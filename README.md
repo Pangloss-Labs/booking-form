@@ -4,6 +4,14 @@
 
 This is a script Guillaume created to book the fablab resources and update a resource calendar, send notifications etc... all based on Google tools. Some bits of scripts have been copied here and there so if you know of the owner, please let us know so we can attribute them correctly.
 
+*Here's a screenshot of the form :*
+
+![form overview](https://github.com/Pangloss-Labs/booking-form/blob/master/bookingform1.PNG)
+
+*Here's a screenshot of the resource details*
+
+![resource details](https://github.com/Pangloss-Labs/booking-form/blob/master/bookingform2.PNG)
+
 ### How does it work ?
 
 - A form (scripts at the root of the repo) is created.
